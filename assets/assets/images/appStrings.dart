@@ -44,20 +44,21 @@ class AssetsPath {
   static const String icon3 = "assets/images/Icon3.svg";
   static const String icon4 = "assets/images/Icon4.svg";
   static const String icon5 = "assets/images/Icon5.svg";
-    static const String navDisableHomeIcon = "assets/images/nav_disable_homeIcon.svg";
-        static const String navDisableLeaveIcon = "assets/images/nav_disable_leaveIcon.svg";
+  static const String navDisableHomeIcon =
+      "assets/images/nav_disable_homeIcon.svg";
+  static const String navDisableLeaveIcon =
+      "assets/images/nav_disable_leaveIcon.svg";
 
-    static const String navDisableTimeSheetIcon = "assets/images/nav_disable_timeSheet.svg";
+  static const String navDisableTimeSheetIcon =
+      "assets/images/nav_disable_timeSheet.svg";
 
-    static const String navDisableExpenseIcon = "assets/images/nav_disable_expenseIcon.svg";
+  static const String navDisableExpenseIcon =
+      "assets/images/nav_disable_expenseIcon.svg";
 
-    static const String navDisableFinanceIcon = "assets/images/nav_disable_financeIcon.svg";
-        static const String navDisableProfileIcon = "assets/images/nav_disable_profileIcon.svg";
-
-
-
-
-  
+  static const String navDisableFinanceIcon =
+      "assets/images/nav_disable_financeIcon.svg";
+  static const String navDisableProfileIcon =
+      "assets/images/nav_disable_profileIcon.svg";
 }
 
 class Patterns {
@@ -79,5 +80,5 @@ class NamedRoutes {
   static const String walkinBookingRetrieveCard = "/WalkinBookingRetrieveCard";
   static const String bookingGroundScreen = "/BookingGroundScreen";
   static const String walkInBokkingConfirmScreen =
-      "/WalkInBokkingConfirmScreen";
+      "/WalkInBookingConfirmScreen";
 }
